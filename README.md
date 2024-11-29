@@ -22,3 +22,4 @@ WORKER.js를 통해 worker 스레드로 동작시킴
 
 ## 🖥️ 프리뷰
 ![ezgif-1-6b90a32738](https://github.com/user-attachments/assets/ee1114c5-1d22-4e1b-84c1-c1b2a19221d1)
+
